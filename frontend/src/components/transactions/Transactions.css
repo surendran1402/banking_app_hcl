@@ -1,0 +1,43 @@
+.transactions-table {
+  overflow-x: auto;
+}
+
+.transactions-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transactions-table th,
+.transactions-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.transactions-table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  color: #333;
+}
+
+.transactions-table tr:hover {
+  background-color: #f8f9fa;
+}
+
+.amount-outgoing {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.amount-incoming {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.no-transactions {
+  text-align: center;
+  padding: 40px 20px;
+  color: #666;
+}
+
+

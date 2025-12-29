@@ -1,0 +1,25 @@
+.account-balance {
+  background-color: #f8f9fa;
+  padding: 16px;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+.account-balance p {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.account-balance strong {
+  color: #007bff;
+  font-size: 20px;
+}
+
+.no-account {
+  text-align: center;
+  padding: 40px 20px;
+  color: #666;
+}
+
+
